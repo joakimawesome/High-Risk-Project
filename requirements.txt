@@ -1,0 +1,5 @@
+markdownify==0.12.1
+matplotlib==3.8.4
+pyautogen==0.2.26
+pymemgpt==0.3.12
+sentence_transformers==2.7.0

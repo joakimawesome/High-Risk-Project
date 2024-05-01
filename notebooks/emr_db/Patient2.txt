@@ -1,0 +1,38 @@
+Patient EMR
+
+Patient: Patient2
+DOB: 05/12/1985
+MRN: 12345678
+
+Date: 04/30/2024
+Time: 10:15 AM
+
+Subjective:
+
+Patient presents with a persistent dry cough for the past 2 weeks. Also reports mild chest tightness and occasional shortness of breath, especially with exertion.
+No fever, chills, or night sweats.
+Symptoms worsen in the evening.
+Patient is a non-smoker. Works in an office environment.
+Objective:
+
+BP: 130/85 mmHg
+Pulse: 82 bpm
+Respiratory Rate: 18 breaths/min
+Temp: 98.7 °F
+Chest auscultation: Mild wheezing in lower lung fields.
+No signs of cyanosis or edema.
+Assessment:
+
+Likely allergic asthma. Possible triggers include dust or seasonal pollen.
+Consider spirometry for pulmonary function tests.
+Plan:
+
+Prescribe Albuterol inhaler (Proventil HFA) – instructions provided to the patient.
+Schedule a follow-up appointment in 2 weeks to reassess symptoms and discuss potential allergy testing.
+Advise patient to monitor symptoms. Seek further medical attention if shortness of breath worsens or chest pain develops.
+Notes:
+
+Patient provided with educational materials on asthma management.
+Discussed potential environmental triggers and at-home monitoring.
+[Physician Electronic Signature]
+Dr. Doctor

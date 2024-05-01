@@ -1,0 +1,61 @@
+Patient EMR
+
+Patient: Patient1
+DOB: 03/15/1985 (Age: 38)
+MRN (Medical Record Number): 123456
+
+Visit Date: 05/01/2024
+Visit Type: Annual Checkup
+
+Chief Complaint: General health checkup, feeling fatigued for the past few weeks
+
+Vitals:
+
+Blood Pressure: 115/75 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.2 °F (36.8 °C)
+Weight: 158 lbs (71.7 kg)
+BMI: 24.8 (Normal range)
+Subjective:
+
+Patient reports fatigue for the past few weeks, feels more tired than usual even after adequate rest.
+No significant changes in diet or exercise habits.
+Some increased stress at work lately.
+Objective:
+
+Physical examination unremarkable. No acute abnormalities detected.
+Recommended lab work: CBC (complete blood count), TSH (thyroid function test).
+Assessment:
+
+Mild fatigue, cause to be determined.
+Lab work ordered to rule out underlying medical conditions (e.g., anemia, thyroid issues).
+Stress could be a contributing factor.
+Plan:
+
+Follow-up visit in 2 weeks to review lab results.
+Discuss stress management techniques if fatigue persists.
+Consider referral to sleep specialist if sleep disturbances are suspected.
+Medications:
+
+Multivitamin (daily)
+Ibuprofen (as needed for occasional headaches)
+Allergies: No known allergies
+
+Past Medical History:
+
+Asthma (well-controlled with inhaler)
+Appendectomy (2012)
+Social History:
+
+Non-smoker
+Occasional alcohol use
+Works as an accountant
+Family History:
+
+Mother: Type 2 Diabetes
+Father: Hypertension
+Provider Notes:
+
+Patient seems in good health overall. Encourage healthy sleep habits and follow-up on fatigue if lab results are normal.
+[Signature]
+Dr. Doctor

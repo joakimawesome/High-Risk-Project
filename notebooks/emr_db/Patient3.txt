@@ -1,0 +1,52 @@
+Patient: Patient3
+DOB: 11/05/1985
+
+MRN (Medical Record Number): 1234567
+Attending Physician:  Dr. Doctor
+
+-----------Chief Complaint-----------
+
+Persistent cough for the past 3 weeks
+Shortness of breath with exertion
+Occasional chest tightness
+-----------Vitals (Today's Visit)-----------
+
+Date: 05/30/2024
+Time: 10:15 AM
+BP: 130/85 mmHg
+HR: 82 bpm
+Temp: 98.7 °F (37.1 °C)
+RR: 18 breaths/min
+Weight: 155 lbs (70 kg)
+-----------Medical History-----------
+
+Conditions:
+Asthma (diagnosed at age 10)
+Seasonal Allergies
+Medications:
+Albuterol inhaler (as needed)
+Loratadine 10mg (daily)
+Surgeries: None
+Allergies: Penicillin (causes rash)
+Social History: Non-smoker, occasional social alcohol use.
+-----------Physical Exam-----------
+
+General: Alert, oriented, in no acute distress.
+HEENT: Mucosa clear, no nasal discharge.
+Chest: Mild expiratory wheezing, good air movement bilaterally.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Extremities: No edema or cyanosis.
+-----------Assessment & Plan-----------
+
+Likely Asthma Exacerbation: Possible triggers include allergens, viral infection.
+Recommendations:
+Chest X-ray (order placed)
+Increase albuterol use to 4 times daily
+Consider short course of oral steroids if no improvement in 48 hours.
+Follow-up: 1 week to review X-ray results and reassess symptoms.
+-----------Notes-----------
+
+Patient instructed on inhaler technique.
+Discussed potential triggers for asthma flares.
+-----------Electronic Signature-----------
+Dr. Doctor - 05/30/2024 10:45 AM
